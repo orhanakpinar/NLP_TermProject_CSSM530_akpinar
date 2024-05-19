@@ -1,3 +1,5 @@
+- Note: The term paper uploaded on 19 May 2024 is not peer-reviewed. We will make corrections until next Sunday after we receive feedback from our instructors and classmates.
+
 # NLP_TermProject_CSSM530_akpinar
 # Read Me
 NLP Term Research Project Spring2024, Automated Text Processing for Social Sciences
