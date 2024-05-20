@@ -143,6 +143,7 @@ greenlet==3.0.1
 grpc-cpp==1.48.2
 gst-plugins-base==1.18.5
 gstreamer==1.18.5
+h5py==3.10.0
 hdbscan==0.8.33
 hdf5==1.12.1
 heapdict==1.0.1
