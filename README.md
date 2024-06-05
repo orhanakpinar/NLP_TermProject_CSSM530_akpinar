@@ -1,4 +1,8 @@
 - Note: The term paper uploaded on 19 May 2024 is not peer-reviewed. We will make corrections until next Sunday after we receive feedback from our instructors and classmates.
+- Note2 : The term paper uploaded on 06 June 2024 includes an extra Introduction. The rest of the research left untouched for re-writing with a different approach. Training sets needs upgrade from more years. Scraping code will be enhanced. The working process will soon be migrated to thesis_log, and the final project to python.exercises repositories.
+
+
+- v2 file requires code edits to work locally
 
 # NLP_TermProject_CSSM530_akpinar
 # Read Me
